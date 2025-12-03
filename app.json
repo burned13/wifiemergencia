@@ -1,14 +1,14 @@
 {
   "expo": {
     "name": "WiFi Emergencia",
-    "slug": "wifi-emergencia",
+    "slug": "wifi-share-app",
     "scheme": "wifiemergenciaapp",
     "updates": {
       "enabled": false,
       "checkAutomatically": "ON_ERROR_RECOVERY"
     },
     "android": {
-      "package": "com.wifiemergencia.app",
+      "package": "com.wifishare.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundColor": "#E6F4FE"

@@ -88,9 +88,9 @@ android {
     buildToolsVersion "35.0.0"
     compileSdk 35
 
-    namespace 'com.wifiemergencia.app'
+    namespace 'com.wifishare.app'
     defaultConfig {
-        applicationId 'com.wifiemergencia.app'
+        applicationId 'com.wifishare.app'
         minSdk 24
         targetSdk 35
         versionCode 1
