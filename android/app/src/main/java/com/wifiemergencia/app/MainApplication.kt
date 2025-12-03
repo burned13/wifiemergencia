@@ -1,4 +1,4 @@
-package com.wifiemergencia.app
+package com.wifishare.app
 
 import android.app.Application
 import android.content.res.Configuration
