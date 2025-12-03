@@ -1,0 +1,15 @@
+export const Colors = {
+  primary: '#4CAF50',
+  primaryDark: '#2e7d32',
+  accentRed: '#C62828',
+  surface: '#fff',
+  background: '#f5f5f5',
+  border: '#eee',
+  textPrimary: '#000',
+  textSecondary: '#666',
+  muted: '#999',
+  neutral: '#9E9E9E',
+  surfaceGreen: '#E8F5E9',
+  borderGreen: '#C8E6C9',
+  whatsapp: '#25D366',
+};

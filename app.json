@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "WiFi Emergencia",
+    "slug": "wifi-emergencia",
+    "scheme": "wifiemergenciaapp",
+    "updates": {
+      "enabled": false,
+      "checkAutomatically": "ON_ERROR_RECOVERY"
+    },
+    "android": {
+      "package": "com.wifiemergencia.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundColor": "#E6F4FE"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5dd03fb7-5ef5-4ba6-b8c1-c0e2c841fcaf"
+      }
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}

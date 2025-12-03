@@ -1,0 +1,19 @@
+pluginManagement {
+  repositories {
+    gradlePluginPortal()
+    google()
+    mavenCentral()
+  }
+  includeBuild("../node_modules/@react-native/gradle-plugin")
+  includeBuild("../node_modules/expo/node_modules/expo-modules-autolinking/android/expo-gradle-plugin")
+}
+
+plugins {
+  id("com.facebook.react.settings")
+  id("expo-autolinking-settings")
+}
+
+
+rootProject.name = 'WiFi Emergencia'
+
+include ':app'

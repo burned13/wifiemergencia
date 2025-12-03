@@ -1,0 +1,18 @@
+node_modules
+
+# Android build outputs and local configs
+android/app/build/
+android/build/
+android/.gradle/
+android/.gradle-user-home/
+android/local.properties
+
+# Expo/React Native caches
+.expo/
+
+# Web build artifacts
+dist/
+web-build/
+
+# Logs
+*.log

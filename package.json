@@ -1,0 +1,32 @@
+{
+  "name": "wifi-share-app",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~6.1.2",
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@supabase/supabase-js": "^2.84.0",
+    "crypto-js": "^4.2.0",
+    "expo": "^54.0.0",
+    "expo-device": "~6.0.2",
+    "expo-location": "~17.0.1",
+    "expo-secure-store": "~13.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.74.5",
+    "react-native-web": "^0.19.13",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@expo/cli": "^54.0.16",
+    "@types/react": "~18.2.55",
+    "localtunnel": "^2.0.2",
+    "sharp": "^0.34.5"
+  }
+}
