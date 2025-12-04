@@ -18,14 +18,14 @@
     "expo-location": "~19.0.7",
     "expo-secure-store": "~15.0.7",
     "react": "^18.2.0",
-    "react-dom": "19.1.0",
+    "react-dom": "^18.2.0",
     "react-native": "^0.74.5",
     "react-native-web": "^0.21.0",
     "zustand": "^5.0.8"
   },
   "devDependencies": {
     "@expo/cli": "^54.0.16",
-    "@types/react": "~19.1.10",
+    "@types/react": "~18.2.55",
     "localtunnel": "^2.0.2",
     "sharp": "^0.34.5"
   }
